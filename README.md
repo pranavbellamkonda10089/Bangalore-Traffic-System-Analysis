@@ -73,6 +73,6 @@ This project demonstrates practical SQL skills in relational database design, da
 
 ## Author
 
-Pranav
+B. Pranav
 
-Electronics and Communication Engineering (ECE) Student
+Electronics and Communication Engineering (ECE) Student, RGMCET
